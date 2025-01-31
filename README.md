@@ -7,36 +7,16 @@
 
 ## **✨ Projects Completed ✨**
 
-### 1. **Quiz Application**
-   - **Description**: A console-based quiz application where users can answer multiple-choice questions and receive a score at the end.
-   - **Features**:
-     - Dynamic question loading.
-     - Score calculation.
-     - User-friendly interface.
-   - **Technologies**: Java, OOP concepts.
-
----
-
-### 2. **Banking System**
-   - **Description**: A simple banking system that allows users to perform basic banking operations like deposit, withdrawal, balance inquiry, and fund transfer.
-   - **Features**:
-     - Account creation.
-     - Deposit and withdrawal functionality.
-     - Balance inquiry and fund transfer.
-   - **Technologies**: Java, OOP, HashMap for account management.
-
----
-
-### 3. **Calendar Application**
+### 1. **Calendar Application**
    - **Description**: A console-based calendar application that displays the calendar for a given month and year.
    - **Features**:
      - Month and year input.
      - Calendar display with proper formatting.
    - **Technologies**: Java, Date and Time handling.
-
+     
 ---
 
-### 4. **Sudoku Game**
+### 2. **Sudoku Game**
    - **Description**: A Sudoku game where users can solve a randomly generated Sudoku puzzle.
    - **Features**:
      - Puzzle generation.
@@ -46,7 +26,7 @@
 
 ---
 
-### 5. **Employee Management System**
+### 3. **Employee Management System**
    - **Description**: A system to manage employee records, including adding, updating, deleting, and viewing employee details.
    - **Features**:
      - Add, update, and delete employee records.
@@ -56,7 +36,17 @@
 
 ---
 
-### 6. **Income Tax Calculator**
+### 4. **Banking System**
+   - **Description**: A simple banking system that allows users to perform basic banking operations like deposit, withdrawal, balance inquiry, and fund transfer.
+   - **Features**:
+     - Account creation.
+     - Deposit and withdrawal functionality.
+     - Balance inquiry and fund transfer.
+   - **Technologies**: Java, OOP, HashMap for account management.
+
+---
+
+### 5. **Income Tax Calculator**
    - **Description**: A program to calculate income tax based on the user's income and tax slabs.
    - **Features**:
      - Income input.
@@ -66,6 +56,16 @@
 
 ---
 
+### 6. **Task Management System**
+   - **Description**: A system to manage tasks, including adding, updating, deleting, and viewing tasks with deadlines.
+   - **Features**:
+     - Add, update, and delete tasks.
+     - Set deadlines for tasks.
+     - View all tasks.
+   - **Technologies**: Java, OOP, ArrayList for task storage.
+
+---
+     
 ### 7. **Snake Game**
    - **Description**: A classic Snake game where the player controls a snake to eat food and grow in length.
    - **Features**:
@@ -76,13 +76,13 @@
 
 ---
 
-### 8. **Task Management System**
-   - **Description**: A system to manage tasks, including adding, updating, deleting, and viewing tasks with deadlines.
+### 8. **Quiz Application**
+   - **Description**: A console-based quiz application where users can answer multiple-choice questions and receive a score at the end.
    - **Features**:
-     - Add, update, and delete tasks.
-     - Set deadlines for tasks.
-     - View all tasks.
-   - **Technologies**: Java, OOP, ArrayList for task storage.
+     - Dynamic question loading.
+     - Score calculation.
+     - User-friendly interface.
+   - **Technologies**: Java, OOP concepts.
 
 ---
 
