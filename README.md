@@ -92,8 +92,3 @@
 - **Tools**: IntelliJ IDEA, VS Code, Git/GitHub.
 
 ---
-
-## **🚀 How to Run the Projects**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/java-internship-projects.git
